@@ -1,0 +1,20 @@
+2024-09-27 23:16:36.496 [AWT-EventQueue-0] DEBUG dijisoz.signer.esign.smartcard.Manager - Manager Class created
+2024-09-27 23:16:44.797 [AWT-EventQueue-0] DEBUG dijisoz.signer.esign.smartcard.ManagerBase - New SmartCardManager will be created
+2024-09-27 23:16:44.841 [AWT-EventQueue-0] DEBUG dijisoz.signer.esign.smartcard.ManagerBase - Terminal count : 1
+2024-09-27 23:16:44.972 [AWT-EventQueue-0] DEBUG dijisoz.signer.esign.smartcard.ManagerBase - PKCS11 Smartcard will be created
+2024-09-27 23:16:44.989 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.SmartCard - CardType: AKIS
+2024-09-27 23:16:44.996 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Working dir :c:\digisoz\source\signer
+2024-09-27 23:16:44.996 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Looking for pkcs11 library in path:c:\digisoz\source\signer
+2024-09-27 23:16:44.996 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Looking for pkcs11 library in path:C:\Program Files\Java\jdk1.8.0_202\bin\akisp11.dll
+2024-09-27 23:16:44.996 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Looking for pkcs11 library in path:C:\WINDOWS\Sun\Java\bin\akisp11.dll
+2024-09-27 23:16:45.004 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Looking for pkcs11 library in path:C:\WINDOWS\system32\akisp11.dll
+2024-09-27 23:16:45.004 [AWT-EventQueue-0] INFO  tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Will work with library path :C:\WINDOWS\system32\akisp11.dll
+2024-09-27 23:16:45.005 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.SmartCard - CardType: AKIS
+2024-09-27 23:16:45.005 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Working dir :c:\digisoz\source\signer
+2024-09-27 23:16:45.005 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Looking for pkcs11 library in path:c:\digisoz\source\signer
+2024-09-27 23:16:45.005 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Looking for pkcs11 library in path:C:\Program Files\Java\jdk1.8.0_202\bin\akisp11.dll
+2024-09-27 23:16:45.005 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Looking for pkcs11 library in path:C:\WINDOWS\Sun\Java\bin\akisp11.dll
+2024-09-27 23:16:45.005 [AWT-EventQueue-0] DEBUG tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Looking for pkcs11 library in path:C:\WINDOWS\system32\akisp11.dll
+2024-09-27 23:16:45.005 [AWT-EventQueue-0] INFO  tr.gov.tubitak.uekae.esya.api.smartcard.pkcs11.card.ops.PKCS11Ops - Will work with library path :C:\WINDOWS\system32\akisp11.dll
+2024-09-27 23:17:05.429 [AWT-EventQueue-0] INFO  dijisoz.signer.esign.smartcard.Manager - Manager Class created
+2024-09-27 23:17:05.429 [AWT-EventQueue-0] DEBUG dijisoz.signer.esign.smartcard.Manager - Manager Class created
